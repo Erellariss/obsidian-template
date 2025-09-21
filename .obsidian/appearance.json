@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 19,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "accentColor": "#b4b4fe",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "width"
+  ]
+}

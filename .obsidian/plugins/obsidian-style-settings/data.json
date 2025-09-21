@@ -1,0 +1,12 @@
+{
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-style@@tag-color@@dark": "#BDDAFF",
+  "minimal-style@@tag-background@@dark": "#2A2F3C",
+  "minimal-style@@tag-background-hover@@dark": "#353B4D",
+  "minimal-style@@image-blend-light": false,
+  "minimal-style@@zoom-off": true,
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@image-grid-fit": "contain",
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@callout-blend-mode": "normal"
+}

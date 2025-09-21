@@ -1,0 +1,7 @@
+:root {
+  --bold-color: #64d2ff;
+}
+
+.image-embed.is-loaded img[alt*="white"] {
+  background-color: white;
+}

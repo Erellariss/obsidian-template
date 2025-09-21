@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Created At": "datetime",
+    "modified": "datetime",
+    "keywords": "multitext",
+    "created": "datetime",
+    "updated": "datetime",
+    "z-links": "multitext"
+  }
+}

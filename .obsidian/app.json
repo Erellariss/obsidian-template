@@ -1,0 +1,16 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Z-core",
+  "attachmentFolderPath": "Files",
+  "showUnsupportedFiles": true,
+  "livePreview": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "userIgnoreFilters": [
+    "Files/"
+  ]
+}
